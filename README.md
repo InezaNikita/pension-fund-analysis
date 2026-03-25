@@ -1,10 +1,10 @@
-# 📊 Pension Fund Analysis
+# Pension Fund Analysis
 
 Analysis of U.S. pension fund health using SQL and Excel.
 
 ---
 
-## 📈 Trend Over Time
+## Trend Over Time
 
 ![Trend](trend_over_time.PNG)
 
@@ -16,7 +16,7 @@ This chart shows how the average funded ratio changed from 2001 to 2017.
 
 ---
 
-## 📉 Worst Performing States
+## Worst Performing States
 
 ![Worst States](worst_states.PNG)
 
@@ -28,7 +28,7 @@ This chart shows the states with the lowest funding levels.
 
 ---
 
-## ⚠️ Worst Pension Plans
+## Worst Pension Plans
 
 ![Worst Plans](worst_pensions.PNG)
 
@@ -40,7 +40,7 @@ This chart shows the most underfunded pension plans.
 
 ---
 
-## 📋 Summary by State
+## Summary by State
 
 ![Summary 1](summary_table_part1.PNG)  
 ![Summary 2](summary_table_part2.PNG)  
@@ -54,13 +54,13 @@ This table classifies states as **Healthy** or **Struggling**.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Excel (Pivot Tables, Charts)  
 - SQL (data querying and analysis)  
 
 ---
 
-## 💡 Key Insight
+## Key Insight
 
 Overall, pension funding has declined over time, and many states are underfunded.
